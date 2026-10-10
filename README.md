@@ -14,4 +14,6 @@ Site vitrine statique pour **L’Étincelle**, restaurant de village à Agnière
 - GitHub : https://github.com/AMWEBDESIGNER/letincelle-devoluy
 - Pages : https://letincelle-devoluy.pages.dev
 
-Confirmer carte, contacts, horaires, identité graphique et médias avec le restaurant avant utilisation commerciale. Maquette indépendante.
+## Parcours livré
+
+L’accueil est complété par `experience.html` et `infos.html`, avec une présentation de la table, l’ambiance, l’itinéraire et les points à confirmer. Confirmer carte, contacts, horaires, identité graphique et médias avec le restaurant avant utilisation commerciale. Maquette indépendante.
