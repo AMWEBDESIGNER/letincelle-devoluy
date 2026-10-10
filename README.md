@@ -17,3 +17,7 @@ Site vitrine statique pour **L’Étincelle**, restaurant de village à Agnière
 ## Parcours livré
 
 L’accueil est complété par `experience.html` et `infos.html`, avec une présentation de la table, l’ambiance, l’itinéraire et les points à confirmer. Confirmer carte, contacts, horaires, identité graphique et médias avec le restaurant avant utilisation commerciale. Maquette indépendante.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
